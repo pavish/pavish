@@ -1,4 +1,6 @@
-I'm **Pavish**, a full-stack software engineer, and systems architect.
+I'm **Pavish**, a full-stack software engineer who believes in balancing good UX with performance.
+
+I've driven projects end-to-end, including architecting systems, writing code, designing UX, mentoring engineers, and presenting at conferences.
 
 **[LinkedIn](https://www.linkedin.com/in/pavishkumar-rg/) &nbsp; | &nbsp; [Email](mailto:pavishkumar.r@gmail.com)**
 
